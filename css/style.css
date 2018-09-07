@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: #ffe7db;
+    background: #fcf7f2;
 }
 h1
 {
@@ -20,17 +20,68 @@ h1
 }
 h2
 {
-  background-color: #fff;
-  display: block;
+  background-color: #f7f7f7;
   font-size: 14px;
   font-family: 'Mukta', sans-serif;
-  color: #464242;
-  font-weight:300;
+  color: black;
+  font-weight: bolder;
   height: 17px;
-  padding: 8px 3px 6px 3px;
+  padding: 8px 68px 6px 3px;
   display: inline-block;
-  margin-left: 40px;
+  margin: 0 40px 0 40px;
 }
+h3
+{
+  background-color: #f7f7f7;
+  padding: 9px 0px 6px 3px;
+  margin: 0 70px 0 40px;
+  font-family: 'Mukta', sans-serif;
+  color:black;
+  font-size: 14px;
+  font-weight: bolder;
+  height: 17px;
+
+}
+h4
+{
+  background-color: #f7f7f7;
+  font-family: 'Mukta', sans-serif;
+  color:black;
+  font-size: 14px;
+  font-weight: bolder;
+  height: 18px;
+  margin: 0 70px 0 40px;
+  padding: 7px 0 5px 3px;
+}
+h5
+{
+  background-color: #f7f7f7;
+  font-family: 'Mukta', sans-serif;
+  color:black;
+  font-size: 14px;
+  font-weight: bolder;
+  height: 18px;
+  padding: 7px 0 6px 3px;
+  margin: 0 70px 0 40px;
+}
+p
+{
+  background-color: #f7f7f7;
+  float:right;
+  padding:7px 15px 101px 10px;
+  font-family: 'Mukta', sans-serif;
+  color: red;
+}
+/* .one{
+  background-color: #f7f7f7;
+  float:left;
+  padding:0 5px 0 2px;
+  font-family: 'Mukta', sans-serif;
+  width:20px;
+  height:15px;
+  float:right;
+
+} */
 .center
 {
     position: absolute;
@@ -177,6 +228,8 @@ h2
   width: 256px;
   padding-top: 0%;
 }
+
+
 /* .section
 {
   width: 256px;
