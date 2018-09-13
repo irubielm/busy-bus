@@ -13,7 +13,11 @@ h1{
   height:2%;
   color: #747474;
   text-align: center;
-  padding: 2px 0px 7px 0px;}
+  padding: 2px 0px 7px 0px;
+}
+  h2{
+padding-bottom:2.5px;
+  }
   h3{
   float: right;
   display: inline-block;
@@ -23,6 +27,14 @@ h1{
   font-size: 16px;
   padding-right: 10px;
   font-weight: 900;}
+  h4{
+  background-color:#007AFF;
+  width: 25%;
+  padding: 0px 2px 1px 5px;
+  color: #fff;
+  border-radius: 2px;
+  }
+
 .column{
   display:inline-block;
   width: 100%;
