@@ -7,21 +7,21 @@ h1{
   background-color:#FFCE47;
   border-radius: 2px;
   width: 100%;
-  font-size: 18px
+  font-size: 10px
   font-weight: 900;
   font-family: 'Mukta', sans-serif;
-  height:5%;
+  height:2%;
   color: #747474;
   text-align: center;
-  padding: 5px 0px 1px 0px;}
+  padding: 2px 0px 7px 0px;}
   h3{
   float: right;
   display: inline-block;
-  color: #fff;
-  background-color: #F58F18;
+  color: red;
   margin-right: 6%;
   border-radius: 2px;
-  font-size: 14px;
+  font-size: 16px;
+  padding-right: 10px;
   font-weight: 900;}
 .column{
   display:inline-block;
@@ -31,9 +31,9 @@ h1{
   font-family: 'Mukta', sans-serif;
   font-weight: 900;
   border-radius: 2px;
-  height: 5.2%;
-  text-align: center;
-  padding: 6px 10px 1px 0;
+  height: 3.4%;
+  text-align: left;
+  padding: 7px 40px 11px 16px;
   color: black;}
 .center{
   position: absolute;
