@@ -5,38 +5,40 @@ body  {
     overflow-y: scroll;
     overflow-x: hidden;
     overflow-y: hidden;
-    background: black;
+    background: #110011;
   }
 h1  {
     display:inline-block;
-    background-color:#E842F4;
+    background-color:#70EAB9;
     border-radius: 2px;
     width: 100%;
-    font-size: 8px
+    font-size: 12px
     font-weight: 900;
     font-family: 'Mukta', sans-serif;
-    height:3px;
+    height:3.2px;
     color: black;
     text-align: center;
     padding: 1px 10px 15px 0px;
   }
 h2  {
-    color:#f9fbff;
+    color:#fff;
     display: inline-block;
     height:4px;
     font-size: 13px;
     padding-bottom: 7px;
     float:left;
+    background-color: #black;
   }
 h3  {
     float: right;
     display: inline-block;
     color: #FFCE47;
     border-radius: 2px;
-    font-size: 12px;
+    font-size: 14px;
     padding-top:0px;
-    padding-bottom: 5px;
+    padding-bottom: 0px;
     padding-left: 0px;
+    background-color: black;
   }
 .route  {
     float:left;
@@ -55,6 +57,7 @@ h3  {
     position: fixed;
     bottom: 65px;
     left: 10px;
+    padding-top: 4px;
     background: white;
     width: 93%;
   }
@@ -82,7 +85,7 @@ h3  {
     height: 1.1%;
     text-align: left;
     padding: 7px 40px 11px 16px;
-    background-color: black;
+    background-color: #fff;
   }
 .center {
     position: absolute;
