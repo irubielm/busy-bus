@@ -3,16 +3,26 @@ body  {
     padding: 0;
     width:auto;
     font-size: 16px;
-    background: black;
+    background: #403F3F;
   }
-  i  {
-    color:black;
-    font-size: 18px;
+i  {
+    font-size: 16px;
+    float: right;
+    padding-right: 60px;
+    color: #F58F18;
   }
+.bus {
+    color: #403F3F;
+    font-size: 12px;
+    padding-top: 4px;
+  }
+.route {
+    color: black;
+}
 .busymap  {
-   width:256px;
-   height:49%;
-   }
+    width:256px;
+    height:49%;
+  }
 .topnav {
    width:256px;
    position:fixed;
@@ -23,7 +33,7 @@ body  {
     left: 10px;
     padding-top: 4px;
     background: white;
-    width: 93%;
+    width: 90%;
    }
 .nav ul {
     text-align: center;
@@ -42,7 +52,7 @@ body  {
     padding-bottom: 30px;
    }
  .column {
-   color: #717272;
+    color: #717272;
     border-width:1px;
     border-bottom-style:solid;
     border-color: #bec1c6;
@@ -50,9 +60,18 @@ body  {
     height: 5%;
     font-family: 'Mukta', sans-serif;
     font-weight: 800;
-    padding: 10px 10px 25px 15px;
+    padding: 10px 10px 30px 15px;
     border-bottom-style: solid;
    }
+   .frequency  {
+    font-size: 11px;
+    float: right;
+    padding-top: 5px;
+    padding-left: 65px;
+    padding-right: 30px;
+    color: #403F3F;
+   }
+
 .center {
     position: absolute;
     top: 50%;
