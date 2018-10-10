@@ -9,10 +9,9 @@ i  {
     font-size: 16px;
     float: right;
     padding-right: 60px;
-    color: #F58F18;
+    color: black;
   }
 .bus {
-    color: #403F3F;
     font-size: 12px;
     padding-top: 4px;
   }
@@ -69,7 +68,7 @@ i  {
     padding-top: 5px;
     padding-left: 65px;
     padding-right: 30px;
-    color: #403F3F;
+    color: #636161;
    }
 
 .center {
