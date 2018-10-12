@@ -4,24 +4,24 @@ body  {
     width:auto;
     font-size: 16px;
     background: #403F3F;
-  }
-i  {
-    font-size: 17px;
+   }
+i    {
+    font-size: 18px;
     float: right;
     padding-right: 60px;
     color: black;
-  }
-.bus {
+   }
+.bus  {
     font-size: 12px;
     padding-top: 4px;
-  }
+   }
 .route {
     color: black;
-}
-.busymap  {
+   }
+.busymap {
     width:256px;
     height:49%;
-  }
+   }
 .topnav {
    width:256px;
    position:fixed;
