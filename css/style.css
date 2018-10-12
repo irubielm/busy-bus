@@ -6,7 +6,7 @@ body  {
     background: #403F3F;
    }
 i    {
-    font-size: 18px;
+    font-size: 16px;
     float: right;
     padding-right: 60px;
     color: black;
@@ -67,7 +67,7 @@ i    {
     float: right;
     padding-top: 5px;
     padding-left: 65px;
-    padding-right: 30px;
+    padding-right: 35px;
     color: #636161;
    }
 
